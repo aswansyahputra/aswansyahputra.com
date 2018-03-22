@@ -281,8 +281,8 @@ defaultContentLanguageInSubdir = false
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
-[Languages.id]
-  languageCode ="id"
+#[Languages.id]
+#  languageCode ="id"
  
 # Configure the English version of the website.
 # [Languages.en]
