@@ -23,13 +23,13 @@
 # Buttons
 
 - id: btn_preprint
-  translation: Preprint
+  translation: Pracetak
 
 - id: btn_pdf
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: Sitasi
 
 - id: btn_slides
   translation: Slides
@@ -38,25 +38,25 @@
   translation: Video
 
 - id: btn_code
-  translation: Code
+  translation: Kode
 
 - id: btn_dataset
   translation: Dataset
 
 - id: btn_project
-  translation: Project
+  translation: Proyek
 
 - id: btn_poster
   translation: Poster
 
 - id: btn_source
-  translation: Source Document
+  translation: Sumber Dokumen
 
 - id: btn_copy
-  translation: Copy
+  translation: Salin
 
 - id: btn_download
-  translation: Download
+  translation: Unduh
 
 # About widget
 
@@ -93,7 +93,7 @@
   translation: Publikasi
 
 - id: publication_type
-  translation: Tipe
+  translation: Jenis
 
 - id: date
   translation: Tanggal
@@ -113,7 +113,7 @@
 # Filtering
 
 - id: filter_by_type
-  translation: Saring berdasarkan tipe
+  translation: Saring berdasarkan jenis
 
 - id: filter_all
   translation: Semua
