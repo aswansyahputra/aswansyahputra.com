@@ -194,7 +194,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -283,7 +283,7 @@ defaultContentLanguageInSubdir = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 #[Languages.id]
 #  languageCode ="id"
- 
+
 # Configure the English version of the website.
 # [Languages.en]
 #  languageCode = "en-us"
