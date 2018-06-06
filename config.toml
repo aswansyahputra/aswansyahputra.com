@@ -26,8 +26,12 @@ disqusShortname = "aswansyahputra"
 googleAnalytics = "UA-114665658-1"
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "id"
+defaultContentLanguage = "en"
+hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
+
+# Get last modified date for content from Git?
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -57,8 +61,8 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Wageningen University and Research", url = "https://wur.nl" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "muhammadaswansyahputra@gmail.com"
   address = ""
   office_hours = ""
@@ -108,14 +112,14 @@ defaultContentLanguageInSubdir = false
   reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = false
+  comment_count = true
 
   # Display next/previous section pager?
   section_pager = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -150,6 +154,11 @@ defaultContentLanguageInSubdir = false
 
   # Enable native social sharing buttons?
   sharing = true
+
+  # Privacy pack
+  #   Show a cookie consent message to visitors
+  #   Anonymize IP in Google Analytics (if enabled)
+  privacy_pack = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -249,7 +258,7 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publikasi"
+  name = "Karya Tulis"
   url = "#publications"
   weight = 2
 
@@ -259,14 +268,9 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Aplikasi Shiny"
-  url = "#app"
+  name = "Proyek Shiny"
+  url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Edukasi"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Kontak"
@@ -281,9 +285,7 @@ defaultContentLanguageInSubdir = false
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
-#[Languages.id]
-#  languageCode ="id"
 
 # Configure the English version of the website.
-# [Languages.en]
-#  languageCode = "en-us"
+[Languages.en]
+  languageCode = "en-us"

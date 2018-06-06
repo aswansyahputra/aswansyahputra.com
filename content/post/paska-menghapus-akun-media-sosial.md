@@ -1,17 +1,24 @@
----
-title: Paska Hapus Akun Media Sosial
-author: Muhammad Aswan Syahputra
-date: '2018-03-12'
-summary: "Cerita setelah menghapus akun media sosial."
-slug: paska-hapus-akun-media-sosial
-categories:
-  - Kehidupan
-tags: []
-header:
-  caption: "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/apps-business-cellphone-cellular-telephone-533446/)"
-  image: /headers/pexels-media-sosial.jpeg
----
++++
+title = "Paska Menghapus Akun Media Sosial"
+date = 2018-06-06T20:28:00+02:00
+draft = false
 
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = ["Kehidupan"]
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Use `caption` to display an image caption.
+#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
+# Set `preview` to `false` to disable the thumbnail in listings.
+[header]
+image = "/headers/pexels-media-sosial.jpeg"
+caption = "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/apps-business-cellphone-cellular-telephone-533446/)"
+preview = true
+
++++
 
 Menilik saat saya masih aktif menggunakan media sosial Facebook dan Instagram dalam kehidupan sehari-hari. Meskipun dapat dibilang sebagai pengguna pasif dimana saya jarang menuliskan konten, namun saya cukup rutin membuka dan menikmati fitur media sosial tersebut. Beberapa bulan terakhir membuat saya gundah dalam menggunakan media sosial, hingga akhirnya saya memutuskan untuk menghapus kedua akun media sosial saya tersebut.
 

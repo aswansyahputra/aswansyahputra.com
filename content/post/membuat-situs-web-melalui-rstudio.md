@@ -1,17 +1,24 @@
----
-title: Membuat Situs Web Melalui RStudio
-author: Muhammad Aswan Syahputra
-date: '2018-02-26'
-summary: "Integrasi `blogdown`, git, dan Netlify untuk membuat situs web"
-slug: membuat-situs-web-melalui-rstudio
-categories:
-  - R
-  - RStudio
-tags: ["blogdown"]
-header:
-  caption: "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/computer-keyboard-laptop-screen-109371/)"
-  image: /headers/pexels-situs-web.jpeg
----
++++
+title = "Membuat Situs Web Melalui Rstudio"
+date = 2018-06-06T20:21:30+02:00
+draft = false
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["blogdown"]
+categories = ["R", "RStudio"]
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Use `caption` to display an image caption.
+#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
+# Set `preview` to `false` to disable the thumbnail in listings.
+[header]
+image = "/headers/pexels-situs-web.jpeg"
+caption = "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/computer-keyboard-laptop-screen-109371/)"
+preview = true
+
++++
 
 # Pengantar
 Dalam tulisan ini saya akan menjelaskan bagaimana cara membuat situs web dengan menggunakan RStudio. RStudio merupakan *Integrated Development Environment* (IDE) yang ditujukan khusus untuk bahasa R. Bahasan mengenai RStudio dan bahasa R akan saya sampaikan dalam tulisan lain. Sebagai informasi, situs web [aswansyahputra.com](https://aswansyahputra.com) dibuat dengan menggunakan metode ini.

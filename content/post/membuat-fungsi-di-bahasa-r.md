@@ -1,16 +1,24 @@
----
-title: Membuat Fungsi di Bahasa R
-author: Muhammad Aswan Syahputra
-date: '2018-03-13'
-summary: "Prinsip dan cara membuat fungsi di bahasa pemrograman R."
-slug: membuat-fungsi-di-bahasa-r
-categories:
-  - R
-tags: ["fungsi"]
-header:
-  caption: "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/office-working-app-computer-97077/)"
-  image: /headers/pexels-fungsi.jpeg
----
++++
+title = "Membuat Fungsi Di Bahasa R"
+date = 2018-06-06T20:28:52+02:00
+draft = false
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["fungsi"]
+categories = ["R"]
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Use `caption` to display an image caption.
+#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
+# Set `preview` to `false` to disable the thumbnail in listings.
+[header]
+image = "/headers/pexels-fungsi.jpeg"
+caption = "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/office-working-app-computer-97077/)"
+preview = true
+
++++
 
 # Prinsip
 Salah satu hal yang menyenangkan dari bahasa R adalah transisi dari pengguna menjadi pemrogram dapat dilakukan dengan cukup mudah. Hal dasar yang dilakukan seorang pemrogram R adalah membuat fungsi. Fungsi merupakan komponen terpenting dan unggulan dari R yang merupakan bahasa pemrograman fungsional (*functional programming language*).

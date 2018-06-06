@@ -1,16 +1,24 @@
----
-title: Aplikasi BORIS untuk Mengamati Proses Oral
-author: Muhammad Aswan Syahputra
-date: '2018-03-12'
-summary: "Menggunakan perangkat lunak bebas dan sumber terbuka untuk mengamati proses oral saat makan."
-slug: aplikasi-boris-untuk-mengamati-proses-oral-makan
-categories:
-  - Ilmu Sensoris
-tags: []
-header:
-  caption: "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/long-blonde-haired-woman-eating-ice-cream-789694/)"
-  image: /headers/pexels-aplikasi-boris.jpeg
----
++++
+title = "Aplikasi Boris Untuk Pengamatan Proses Oral"
+date = 2018-06-06T20:27:31+02:00
+draft = false
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["ilmu-sensoris"]
+categories = ["BORIS"]
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+# Use `caption` to display an image caption.
+#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
+# Set `preview` to `false` to disable the thumbnail in listings.
+[header]
+image = "/headers/pexels-aplikasi-boris.jpeg"
+caption = "Kredit gambar: [**pexels.com**](https://www.pexels.com/photo/long-blonde-haired-woman-eating-ice-cream-789694/)"
+preview = true
+
++++
 
 Proses oral (*oral processing*) merupakan salahsatu komponen penting yang diamati dalam bidang ilmu sensoris. Proses oral dapat diartikan sebagai rangkaian utuh sejak makanan dimasukan dalam mulut hingga akhirnya ditelan.
 

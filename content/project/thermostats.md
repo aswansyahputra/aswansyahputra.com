@@ -1,20 +1,20 @@
 +++
-title = "Rancangan Uji Sensoris"
-date = 2018-03-20T16:30:28+01:00
+title = "Thermostats"
+date = 2018-06-06T20:09:03+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ilmu-sensoris"]
+tags = ["lainnya"]
 
 # Project summary to display on homepage.
-summary = "Aplikasi Shiny untuk merancang penyajian sampel untuk uji sensoris menggunakan *Williams Latin Square Design*."
+summary = "Aplikasi shiny untuk visualisasi dan statistik sederhana data sampel air tanah."
 
 # Optional image to display on homepage.
-image_preview = "app/pexels-foods.jpeg"
+image_preview = "apps/thermostats.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://aswansyahputra.shinyapps.io/williamsdesign/"
+external_link = "http://apps.aswansyahputra.com/thermostats"
 
 # Does the project detail page use math formatting?
 math = false
