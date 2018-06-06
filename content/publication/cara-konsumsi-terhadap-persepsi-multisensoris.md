@@ -1,6 +1,6 @@
 +++
 title = "Pengaruh Cara Konsumsi Terhadap Persepsi Multisensoris: Kajian Pustaka"
-date = 2018-06-06T20:17:10+02:00
+date = 2015-08-08T20:17:10+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,10 +38,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["ilmu-sensoris"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://jpa.ub.ac.id/index.php/jpa/article/view/371"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
