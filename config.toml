@@ -55,15 +55,15 @@ enableGitInfo = true
 
   # Your details.
   name = "Muhammad Aswan Syahputra"
-  role = "Mahasiswa magister bidang Ilmu Sensoris"
+  role = "Analis sensometrik dan konsultan ilmu sensoris"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Wageningen University and Research", url = "https://wur.nl" } ]
+  organizations = [ { name = "Sensolution.ID", url = "https://sensolution.id" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "muhammadaswansyahputra@gmail.com"
+  email = "aswansyahputra@sensolution.id"
   address = ""
   office_hours = ""
   phone = ""
@@ -226,7 +226,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:muhammad.syahputra@wur.nl"
+    link = "mailto:aswansyahputra@sensolution.id"
 
   [[params.social]]
     icon = "linkedin"

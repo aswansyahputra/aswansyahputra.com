@@ -14,7 +14,7 @@ summary = "Aplikasi shiny untuk visualisasi dan statistik sederhana data sampel 
 image_preview = "apps/thermostats.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://apps.aswansyahputra.com/thermostats"
+external_link = "https://aswansyahputra.shinyapps.io/thermostats"
 
 # Does the project detail page use math formatting?
 math = false

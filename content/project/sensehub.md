@@ -14,7 +14,7 @@ summary = "Aplikasi shiny untuk merancang desain penelitian dan analisa data sen
 image_preview = "apps/sensehub.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://apps.aswansyahputra.com/sensehub"
+external_link = "https://aswansyahputra.shinyapps.io/sensehub_basic"
 
 # Does the project detail page use math formatting?
 math = false

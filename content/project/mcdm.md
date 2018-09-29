@@ -14,7 +14,7 @@ summary = "A shinyapp for conducting Multiple Criteria Decision Making (MCDM) "
 image_preview = "apps/mcdm.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://apps.aswansyahputra.com/mcdm"
+external_link = "https://aswansyahputra.shinyapps.io/mcdm"
 
 # Does the project detail page use math formatting?
 math = false
