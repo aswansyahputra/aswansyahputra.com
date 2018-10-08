@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538971702299.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FA216D58",
+    "lastKnownWriteTime" : 1538184082,
+    "last_content_update" : 1538184082,
+    "path" : "~/Projects/GitHub/aswansyahputra.com2/config.toml",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "289,0",
+        "scrollLine" : "273"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

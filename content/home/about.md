@@ -24,11 +24,10 @@ weight = 5
 [[education.courses]]
   course = "Sarjana Teknologi Hasil Pertanian"
   institution = "Universitas Brawijaya"
-  year = 2015
- 
+  year = 2015 
  
 +++
 
 # Ihwal
 
-Peminat aplikasi sumber terbuka. Saat ini sedang mengembangkan aplikasi Shiny untuk digunakan dalam bidang ilmu sensoris. Memiliki misi memberdayakan dan memanfaatkan aplikasi sumber terbuka untuk keperluan ilmu sensoris.
+CEO dan analis sensometrik di Sensolution.ID yang sangat antusias dengan bahasa R serta perangkat lunak bebas dan sumber terbuka. Pengembang berbagai aplikasi web untuk keperluan analisis di dunia akademik dan industri menggunakan teknologi Shiny dari bahasa R.

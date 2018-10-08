@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = false
 date = 2016-04-20T00:00:00
 
-title = "Selected Publications"
+title = "Publikasi"
 subtitle = ""
 
 # Order that this section will appear in.
